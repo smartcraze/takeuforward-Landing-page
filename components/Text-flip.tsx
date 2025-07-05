@@ -15,7 +15,7 @@ export function ContainerTextFlipDemo() {
       )}
       layout
     >
-      <div className="inline-block">
+      <div className="inline-block text-center">
         The One-Stop Platform for <br />
         <div
   className="inline-block relative overflow-hidden align-middle 

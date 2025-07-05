@@ -200,7 +200,7 @@ export default function SyllabusTabs() {
   return (
     <section className="w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 lg:py-12 dark:bg-black ">
       <div className="mb-8 text-center">
-        <h2 className="text-3xl font-bold tracking-tight mb-2">Course Syllabus</h2>
+        <h2 className="text-4xl font-bold tracking-tight mb-2">Everything You Need to Crack Interviews 💪</h2>
         <p className="text-muted-foreground">Choose your learning path and start your journey</p>
       </div>
 

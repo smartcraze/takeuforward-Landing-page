@@ -8,7 +8,7 @@ function Heropage() {
       {/* Left Section */}
       <div className="w-full lg:w-1/2 flex flex-col justify-center items-center lg:items-start text-center lg:text-left space-y-6 max-w-2xl">
         <div>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold leading-tight tracking-tight text-black dark:text-white">
+          <h1 className="text-5xl sm:text-4xl md:text-5xl font-bold leading-tight tracking-tight text-black dark:text-white">
             Upskill yourself <br /> With Just one
           </h1>
           <h1 className="text-orange-600 text-4xl sm:text-5xl md:text-6xl font-extrabold mt-2 leading-tight tracking-tight">
@@ -16,12 +16,12 @@ function Heropage() {
           </h1>
         </div>
 
-        <p className="text-base sm:text-xl text-gray-700 dark:text-gray-300 max-w-md">
+        <p className="text-lg sm:text-xl text-gray-700 dark:text-gray-300 max-w-md">
           The most trusted platform for engineers to upskill and crack tech interviews in the least time.
         </p>
 
         {/* Animated Text Flip */}
-        <div className="w-full mt-6">
+        <div className="w-full mt-6 ">
           <ContainerTextFlipDemo />
         </div>
       </div>
