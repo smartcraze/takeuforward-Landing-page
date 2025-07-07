@@ -45,7 +45,7 @@
    ```bash
    git clone https://github.com/smartcraze/takeuforward-Landing-page.git
    cd takeuforward-Landing-page
-````
+   ````
 
 2. **Install dependencies**
 
