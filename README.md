@@ -65,18 +65,6 @@
    http://localhost:3000
    ```
 
-## 📦 Deployment
-
-This project is deployed and live at:
-🔗 [tufplus.surajv.me](https://tufplus.surajv.me)
-
-## ✍️ Author
-
-Made with 💙 by [Suraj Vishwakarma](https://github.com/smartcraze)
-Connect on [LinkedIn](https://linkedin.com/in/surajv354) | [Twitter](https://twitter.com/surajv354)
-
----
-
 > ⚠️ This project was part of a UI/UX revamp challenge for **takeUforward** and is not affiliated with the official platform.
 > Feel free to fork and use it for your own learning or projects!
 
