@@ -1,36 +1,82 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+# 🚀 takeUforward - Landing Page
 
-First, run the development server:
+> A modern, responsive landing page built for the **takeUforward Plus** platform as a challenge by [Striver](https://www.linkedin.com/in/rajstriver/). This project aims to redesign and improve the user interface and user experience for learners on the DSA journey.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+![Preview](https://tufplus.surajv.me/opengraph-image.png)
+
+## 🔥 Features
+
+- ⚡ Fully Responsive UI
+- 🎯 Tailored for DSA learners
+- 💅 Built with **Next.js**, **TailwindCSS**, and **ShadCN UI**
+- 🎨 Minimal and clean modern design
+- 🌐 SEO-friendly and accessible
+- 📱 Mobile-first layout
+- 🎥 Section to add embedded YouTube or project walkthroughs
+
+## 📁 Folder Structure
+
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+.
+├── app/              # Route handlers and pages
+├── components/       # UI components (Hero, Navbar, Footer, etc.)
+├── lib/              # Reusable utility functions
+├── public/           # Static assets (images, metadata)
+├── styles/           # Tailwind/PostCSS setup (via config files)
+├── README.md         # You’re reading it ;)
+├── package.json      # Dependencies and scripts
+└── ...
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+````
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🧰 Tech Stack
 
-## Learn More
+- **Framework:** [Next.js](https://nextjs.org)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com)
+- **UI Library:** [shadcn/ui](https://ui.shadcn.dev)
+- **Animation:** [Framer Motion](https://www.framer.com/motion/)
+- **Icons:** [Lucide React](https://lucide.dev/)
 
-To learn more about Next.js, take a look at the following resources:
+## 🛠️ Setup & Installation
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/smartcraze/takeuforward-Landing-page.git
+   cd takeuforward-Landing-page
+````
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+2. **Install dependencies**
 
-## Deploy on Vercel
+   ```bash
+   bun install  # or npm install / yarn
+   ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+3. **Run the development server**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+   ```bash
+   bun dev  # or npm run dev
+   ```
+
+4. **Open in browser**
+
+   ```
+   http://localhost:3000
+   ```
+
+## 📦 Deployment
+
+This project is deployed and live at:
+🔗 [tufplus.surajv.me](https://tufplus.surajv.me)
+
+## ✍️ Author
+
+Made with 💙 by [Suraj Vishwakarma](https://github.com/smartcraze)
+Connect on [LinkedIn](https://linkedin.com/in/surajv354) | [Twitter](https://twitter.com/surajv354)
+
+---
+
+> ⚠️ This project was part of a UI/UX revamp challenge for **takeUforward** and is not affiliated with the official platform.
+> Feel free to fork and use it for your own learning or projects!
+
